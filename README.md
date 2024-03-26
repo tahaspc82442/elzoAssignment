@@ -1,1 +1,38 @@
 # elzoAssignment
+
+
+This repository contains a Jupyter notebook for an insight extraction exercise based on conversations between an interviewer and an interviewee. The notebook includes comments for clarity and understanding of the code.
+
+**Note**: An API key is included in the notebook, but it is set to public and will be deleted in 24 hours for security reasons.
+
+## Usage
+
+To use the notebook:
+
+1. Ensure you have Jupyter Notebook installed.
+2. Clone this repository to your local machine.
+3. Open the notebook file (`insight_extraction.ipynb`) using Jupyter Notebook.
+4. Follow the instructions within the notebook to execute the code and extract insights from conversations.
+
+## User Preferences
+
+The notebook provides an added option for user preference to get the resulted insights in various formats:
+
+- Long
+- Short
+- Bullet points
+- One sentence
+
+Feel free to choose the format that best suits your needs.
+
+## Note on Security
+
+Please remember to delete the API key after 24 hours to ensure security and prevent unauthorized access.
+
+## Contributions
+
+Contributions to improve the code or add additional features are welcome. Feel free to submit pull requests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
