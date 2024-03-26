@@ -1,0 +1,13 @@
+Interviewer: Hello, thank you for joining us today. We're excited to get your feedback on our app.
+Interviewee: Hi, happy to be here. Overall, the app's been good.
+Interviewer: That's great to hear! Could you tell us more about your experience using the app?
+Interviewee: Sure. It's user-friendly, but more personalized features would enhance it.
+Interviewer: Personalization noted. What specific features would you like to see for a more fulfilling experience?
+Interviewee: Customizable notifications and tailored content based on my preferences would be fantastic.
+Interviewer: Noted. Now, are there any areas you feel could use improvement within the app?
+Interviewee: Occasionally, the app lags during peak hours. Improving its speed would be beneficial.
+Interviewer: Thank you for sharing that. We'll look into optimizing the app's performance. Any other areas?
+Interviewee: The search function could be more accurate. It sometimes misses relevant results.
+Interviewer: Understood. We'll work on refining the search algorithm. Any final thoughts or suggestions?
+Interviewee: Overall, I'm satisfied. Just a few tweaks would make the app even better.
+Interviewer: We appreciate your feedback. It's invaluable for us to enhance the app. Thank you for your time today.
