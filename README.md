@@ -2,10 +2,10 @@
 
 
 This repository contains a Jupyter notebook for an insight extraction exercise based on conversations between an interviewer and an interviewee. The notebook includes comments for clarity and understanding of the code.
-
-**Note**: An API key is included in the notebook, but it is set to public and will be deleted in 24 hours for security reasons.
-checkout  [Langchain](https://www.langchain.com/) which is used to lode llms and prompt engineer them.
+ [Langchain](https://www.langchain.com/) which is used to lode llms and prompt engineer them.
 ## Usage
+**Note**: An API key is included in the notebook, but it is set to public and will be deleted in 24 hours for security reasons.
+checkout 
 
 To use the notebook:
 
